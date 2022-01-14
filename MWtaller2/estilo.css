@@ -1,0 +1,48 @@
+body {
+border-style: dashed solid;
+border-width: thick;
+border-color:#7E4A38;
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: black;
+  background-color: #FFFFFF }
+
+img {
+    border-radius: 10px;
+    height ="450";
+    width="866"
+  }
+
+
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif }
+
+ul.navbar li {
+  background: white;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid #7E4A38}
+
+ul.navbar a {
+  text-decoration: underline}
+
+a:link {
+  color: black }
+
+address {
+  text-align:center;
+  font-size: small;
+  margin-top: 1em;
+  padding-top: 1em;
+  border-top: thin dotted }
